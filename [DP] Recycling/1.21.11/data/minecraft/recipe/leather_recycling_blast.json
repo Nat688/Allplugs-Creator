@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "ingredient": [
+    "minecraft:leather_helmet",
+    "minecraft:leather_chestplate",
+    "minecraft:leather_leggings",
+    "minecraft:leather_boots",
+    "minecraft:leather_horse_armor"
+  ],
+  "result": {
+    "id": "minecraft:leather"
+  },
+  "experience": 0.25,
+  "cookingtime": 50
+}
