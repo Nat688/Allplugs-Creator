@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:glass_bottle",
+    "minecraft:lapis_block",
+    "minecraft:lapis_block"
+  ],
+  "result": {
+    "id": "minecraft:experience_bottle",
+    "count": 18
+  }
+}

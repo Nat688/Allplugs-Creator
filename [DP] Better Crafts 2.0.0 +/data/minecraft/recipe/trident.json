@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "AAA",
+    " B ",
+    " B "
+  ],
+  "key": {
+    "A": "minecraft:quartz",
+    "B": [
+      "minecraft:prismarine_shard",
+      "minecraft:prismarine_crystals"
+    ]
+  },
+  "result": {
+    "id": "minecraft:trident",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "AB ",
+    "BA "
+  ],
+  "key": {
+    "A": "minecraft:purple_dye",
+    "B": "minecraft:glowstone_dust"
+  },
+  "result": {
+    "id": "minecraft:pearlescent_froglight",
+    "count": 1
+  }
+}

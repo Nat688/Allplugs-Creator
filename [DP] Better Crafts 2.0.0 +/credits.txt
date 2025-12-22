@@ -1,0 +1,6 @@
+Pack name:  Better Crafts
+Pack URL:   https://modrinth.com/project/better-crafts
+Author:     Nat_68
+Author URL: https://modrinth.com/user/nat_68   
+
+Data pack built with Misode Data Pack Generator (https://misode.github.io/).

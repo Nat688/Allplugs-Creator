@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": [
+      "minecraft:charcoal",
+      "minecraft:coal"
+    ]
+  },
+  "result": {
+    "id": "minecraft:coal_block",
+    "count": 1
+  }
+}
