@@ -1,37 +1,30 @@
 ---
 name: 🐛 Bug Report
-about: Signaler un bug pour nous aider à améliorer le projet
+about: Report a bug to help us improve the project
 title: "🐛 Bug Report"
 labels: bug
 assignees: ""
 ---
 
-## Description
-Une description claire et concise du bug.
+## Description *
+A clear and concise description of the bug.
 
-## Étapes pour reproduire
-1. Aller sur `...`
-2. Cliquer sur `...`
-3. Faire défiler jusqu'à `...`
+## Steps to reproduce *
+A description of how you encountered this bug.
 
-## Comportement attendu
-Une description claire de ce qui **devrait** se passer.
+## Expected behavior (not mandatory)
+A clear description of what **should** happen.
 
-## Comportement observé
-Une description de ce qui **se passe réellement**.
+## Observed behavior (not mandatory)
+A description of what **is really happening**.
 
-## Captures d'écran / Logs
-Si applicable, ajoutez des captures d'écran ou logs pour aider à comprendre le problème.
+## Screenshots / Logs (not mandatory)
+If possible, add screenshots or logs to help understand the problem.
 
-## Environnement
- - OS: [ex: Windows 11]
- - Navigateur: [ex: Chrome]
- - Version: [ex: 1.2.0]
-
-## Informations supplémentaires
-Ajoutez tout autre contexte utile concernant le problème.
+## Additional information (not mandatory)
+Add any other relevant context regarding the problem.
 
 ## Checklist
-* [ ] J'ai vérifié qu'il n'existe pas déjà une issue similaire
-* [ ] J'ai fourni les étapes pour reproduire le bug
-* [ ] J'ai ajouté les logs ou captures si possible
+* [ ] I checked that a similar issue doesn't already exist.
+* [ ] I provided the steps to reproduce the bug
+* [ ] I've added the logs or screenshots where possible.
